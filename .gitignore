@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.vscode/
+organize_log.csv
+_Duplicates/
